@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -al
+=======
+is -la
+>>>>>>> 603cfb9891c46db48eb4e79d14471757c1225a0f
