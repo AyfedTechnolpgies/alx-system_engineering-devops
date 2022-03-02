@@ -1,2 +1,9 @@
 #!/bin/bash
 pwd
+#!/bin/bash
+pwd
+cat
+[D[A[C[C[C EOT
+[D[D[A[D[C[C[C[C[chmod+x 0-current_working-directory
+git add 0-current_working_directory
+[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[git add 0-current_working_directory
